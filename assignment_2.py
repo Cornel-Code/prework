@@ -1,0 +1,11 @@
+# Cornel Duhaney
+# Knowledge House Prework
+# 2021 Innovation Fellowship
+
+over_under_list = [1, 45, 32, 21, 5, 17, 43, 93]
+
+for num in over_under_list:
+    if num > 25:
+        print("over")
+    else:
+        print("under")
